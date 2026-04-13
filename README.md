@@ -2,7 +2,9 @@
 
 **Schedule switch‑port enable / disable on Ubiquiti Dream Machine devices (UDM, UDM‑Pro, UDM‑SE, etc.)**
 
-Handy for parents, school labs, or anyone who wants time‑based control over PoE ports and the devices plugged into them — Wi‑Fi access points, cameras, switches, and more.
+Please be aware this is entirely untested and it is created as a proposed solution to the issues reported with the UI wifi scheduling, with potential other applications. 
+
+Perhaps: Handy for parents, school labs, or anyone who wants time‑based control over PoE ports and the devices plugged into them — Wi‑Fi access points, cameras, switches, and more.
 
 ---
 
